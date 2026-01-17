@@ -1,4 +1,7 @@
 # YouTube RAG Chatbot
+ Web App Link: https://ytchatboatnewgroqlpu-aphmzmg6jmdb5bmkeozxrf.streamlit.app/
+
+ Other github link:  https://github.com/Sachin432/YT_CHATBOAT_NEW_GROQ_LPU/tree/main
 
 ## Business Problem
 
@@ -55,7 +58,7 @@ Relevant Context Retrieval
 ↓
 Prompt Construction
 ↓
-LLM Inference (Ollama / OpenAI)
+LLM Inference (Ollama / OpenAI/GROQ-LPU)
 ↓
 Answer to User
 
@@ -149,3 +152,4 @@ YT_VIDEO_CHATBOT/
 - Source citation for answers
 - Conversational memory across sessions
 - Support for additional content platforms
+
